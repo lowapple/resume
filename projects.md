@@ -10,7 +10,7 @@ description: '최종 업데이트: 2022.05.19'
 
 ### 후후 안심이 서비스: 2021.07 \~ 2021.11
 
-**사용 기술 & 툴**: Aid Studio / Kotlin / MVP
+**사용 기술 & 툴**: Android / Kotlin / MVP
 
 **담당 업무**: Android SDK/Android Application 개발 및 배포
 
