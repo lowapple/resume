@@ -6,7 +6,18 @@ description: '최종 업데이트: 2022.05.19'
 
 ## 사이드 프로젝트
 
-### 팀 디사이더(Writespace): 21.12 \~ 22.04
+### 팀 디사이더([Writespace](http://writespace.tk/)): 21.12 \~ 22.04
+
+![](http://writespace.tk/8362009671096db7c58de9015e229e8372e8b07b.png)
+
+**서비스 소개:** 키워드를 이용한 일기 서비스
+
+* ``[`PlayStore`](https://play.google.com/store/apps/details?id=io.decider.app.writespace.writespace)``
+* ``[`AppStore`](https://apps.apple.com/us/app/writespace/id1608756803)``
+
+**사용기술 & 툴:** Intellij / Flutter
+
+**담당 업무: 개발 팀장 및 Android 앱 파트 담당**
 
 
 
@@ -16,7 +27,7 @@ description: '최종 업데이트: 2022.05.19'
 
 ### 후후 안심이 서비스: 2021.07 \~ 2021.11
 
-**사용 기술 & 툴**: Android Studio / Kotlin / MVP
+**사용 기술 & 툴**: Aroid Studio / Kotlin / MVP
 
 **담당 업무**: Android SDK/Android Application 개발 및 배포
 
