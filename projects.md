@@ -4,25 +4,6 @@ description: '최종 업데이트: 2022.05.19'
 
 # PROJECTS
 
-## 사이드 프로젝트
-
-### 팀 디사이더([Writespace](http://writespace.tk/)): 21.12 \~ 22.04
-
-![](http://writespace.tk/8362009671096db7c58de9015e229e8372e8b07b.png)
-
-**서비스 소개:** 키워드를 이용한 일기 서비스
-
-[서비스 홈페이지](http://writespace.tk)
-
-* ``[`PlayStore`](https://play.google.com/store/apps/details?id=io.decider.app.writespace.writespace)
-* ``[`AppStore`](https://apps.apple.com/us/app/writespace/id1608756803)``
-
-**사용기술 & 툴:** Intellij / Flutter
-
-**담당 업무: 개발 팀장 및 Android 앱 파트 담당**
-
-회사 외 인원들과 팀을 이뤄 개발 팀장이라는 직책을 맡아 만든 서비스 입니다. 효율적인 UI 변경을 위해 Android/iOS 동일한 화면이 나오도록 Flutter 를 이용하여 개발을 진행했습니다. 앱 내부 배포는 Fastlane과 Firebase Distribution을 활용했습니다. 서버와 클랑이언트 간의 의사소통이 없이도 개발이 가능하도록 Postman을 적극적으로 활용했습니다.&#x20;
-
 ## 2022년
 
 ## 2021년
@@ -156,3 +137,22 @@ description: '최종 업데이트: 2022.05.19'
 * L-Pin 어플리케이션 런칭및 운영(현재 서비스 종료)
 * 엘핀 서버와 연동하여 패스워드를 생성및 인증에 사용되는 어플리케이션개발
 * 인증에 사용되는 필수 모듈들을 이용하여 SDK로 만들어서 제공하는 업무 수행
+
+## 사이드 프로젝트
+
+### 팀 디사이더([Writespace](http://writespace.tk/)): 21.12 \~ 22.04
+
+![](http://writespace.tk/8362009671096db7c58de9015e229e8372e8b07b.png)
+
+**서비스 소개:** 키워드를 이용한 일기 서비스
+
+[서비스 홈페이지](http://writespace.tk)
+
+* ``[`PlayStore`](https://play.google.com/store/apps/details?id=io.decider.app.writespace.writespace)
+* ``[`AppStore`](https://apps.apple.com/us/app/writespace/id1608756803)``
+
+**사용기술 & 툴:** Intellij / Flutter
+
+**담당 업무: 개발 팀장 및 Android 앱 파트 담당**
+
+회사 외 인원들과 팀을 이뤄 개발 팀장이라는 직책을 맡아 만든 서비스 입니다. 효율적인 UI 변경을 위해 Android/iOS 동일한 화면이 나오도록 Flutter 를 이용하여 개발을 진행했습니다. 앱 내부 배포는 Fastlane과 Firebase Distribution을 활용했습니다. 서버와 클랑이언트 간의 의사소통이 없이도 개발이 가능하도록 Postman을 적극적으로 활용했습니다.&#x20;
