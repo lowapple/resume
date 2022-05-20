@@ -12,14 +12,14 @@ description: '최종 업데이트: 2022.05.19'
 
 **서비스 소개:** 키워드를 이용한 일기 서비스
 
-* ``[`PlayStore`](https://play.google.com/store/apps/details?id=io.decider.app.writespace.writespace)``
+* ``[`PlayStore`](https://play.google.com/store/apps/details?id=io.decider.app.writespace.writespace)
 * ``[`AppStore`](https://apps.apple.com/us/app/writespace/id1608756803)``
 
 **사용기술 & 툴:** Intellij / Flutter
 
 **담당 업무: 개발 팀장 및 Android 앱 파트 담당**
 
-
+회사 외 인원들과 팀을 이뤄 개발 팀장이라는 직책을 맡아 만든 서비스 입니다. 효율적인 UI 변경을 위해 Android/iOS 동일한 화면이 나오도록 Flutter 를 이용하여 개발을 진행했습니다. 앱 내부 배포는 Fastlane과 Firebase Distribution을 활용했습니다. 서버와 클랑이언트 간의 의사소통이 없이도 개발이 가능하도록 Postman을 적극적으로 활용했습니다.&#x20;
 
 ## 2022년
 
@@ -27,7 +27,7 @@ description: '최종 업데이트: 2022.05.19'
 
 ### 후후 안심이 서비스: 2021.07 \~ 2021.11
 
-**사용 기술 & 툴**: Aroid Studio / Kotlin / MVP
+**사용 기술 & 툴**: Aid Studio / Kotlin / MVP
 
 **담당 업무**: Android SDK/Android Application 개발 및 배포
 
