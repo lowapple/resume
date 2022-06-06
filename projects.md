@@ -8,11 +8,23 @@ description: '최종 업데이트: 2022.05.19'
 
 ### **모바일 연계형 시공·공정관리 객체탐지 AI 데이터 통합시스템 개발**: 21.09 \~ 22.06
 
+사용 기술 & 툴: Android / Kotlin / MVVM / Flutter(iOS)
 
+**담당 업무**: Android Application 개발 및 배포
+
+**서비스 설명**
+
+* 시공 현장에 스마트 인프라를 마련하여 시공 시간 및 원가 절감을위한 프로젝트
+* AMI 시공 통합관리 서비스 제공을 위한 스마트폰 앱 개발을 통해 외주 시공 인력이 현장에서 작업 결과 및 시설현황 등록, 자재 등 관리
+
+**주요 업무 성과**
+
+* 카메라를 통한 실시간 OCR 데이터 추출및 정규화
+* Flutter 를 통한 iOS 앱 개발및 시공 업체 배포 진행
 
 ## 2021년
 
-### 후후 안심이 서비스: 2021.07 \~ 2021.11
+### 후후 안심이 서비스: 21.07 \~ 21.11
 
 **사용 기술 & 툴**: Android / Kotlin / MVP
 
@@ -89,11 +101,33 @@ description: '최종 업데이트: 2022.05.19'
 
 ## 2019년
 
-****
+### **스마트 체크인 서비스: 19.07 \~ 19.09**
+
+* [데모 영상](https://www.youtube.com/watch?v=vc0CYV04NvM)
+* [관련 기사](https://platum.kr/archives/128592)
+* 서비스 UI 및 기능 구현
+* Android Native 앱 개발
+  * 기본 아키텍쳐(MVP)
+  * 사용 라이브러리: Kotlin, Android Architecture Component(LiveData, ViewModel), Room, Constraint Layout, LPinSDK, AltBeacon
+
+### **지하철 핸드페이 POC / 롯데카드: 19.07 \~ 19.09**
+
+* 비콘을 이용하여 사용자의 진입/진출/방향을 도출하는 작업 수행
+* Android Native 앱 개발
+  * 기본 아키텍쳐(MVP)
+  * 사용 라이브러리: Kotlin, Android Architecture Component(LiveData, ViewModel), Room, Constraint Layout, LPinSDK, AltBeacon, WorkManager
+* 실시간 테스트 대응을 위한 Remote Config 구성##
+
+### 금융 ODS 위치 플랫폼 내부 수집앱: 19.02 \~ 21.04
+
+* [금융 ODS위치 플랫폼](projects.md#ods-18.07), 서비스 이용을 위한 위치데이터를 수집하기위한 내부 어플리케이션
+* Android Native 앱 개발
+  * 기본 아키텍쳐(MVP, MVVM, UtilCode)
+  * 사용 라이브러리: Java, RxJava, Kotlin, Android Architecture Component(LiveData, ViewModel), Room, Kotlin Coroutine, Gson, Retrofit, OkHttp, Constraint Layout, LPinSDK, AltBeacon, GoogleMaps
 
 ## 2018년
 
-### 엘핀 위치인증 애플릿 개발: 2018.08 \~ 상용 서비스 연계 준비
+### 엘핀 위치인증 애플릿 개발: 18.08 \~ 22.01
 
 **사용 기술 & 툴**: JavaCard/Gemalto JavaCard Editor IDE
 
@@ -110,7 +144,7 @@ description: '최종 업데이트: 2022.05.19'
 * APDU 명령어를 이용하여 개발 진행 및 내부 문서 정리
 * 통신사와 연계하여 연동 테스트 경험이 있습니다.
 
-### 금융 ODS 위치 인증 플랫폼 개발: 2018.07 \~ 서비스 운영 및 유지 보수
+### 금융 ODS 위치 인증 플랫폼 개발: 18.07 \~ 서비스 운영 및 유지 보수
 
 ![](.gitbook/assets/2018\_금융ODS\_위치인증플랫폼.jpg)
 
@@ -133,7 +167,7 @@ description: '최종 업데이트: 2022.05.19'
 
 ## 2017년
 
-### L-Pin 패스워드 서비스(서비스 종료): 8개월 2017.11 \~ 2018.06
+### L-Pin 패스워드 서비스(서비스 종료): 8개월 17.11 \~ 18.06
 
 ![](.gitbook/assets/2017\_L-Pin\_패스워드\_서비스.jpg)
 
