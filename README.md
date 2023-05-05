@@ -1,5 +1,7 @@
 ---
+route: /
 description: '작성일: 2022-05-18'
+icon: home
 ---
 
 # RESUME

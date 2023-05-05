@@ -1,0 +1,20 @@
+input: .
+
+output: .retype
+
+url: me.lowapple.io
+
+branding:
+  title: Hi! 윤준서
+  label: RESUME
+
+links:
+- text: BLOG
+  link: https://younjs.space/
+- text: GITHUB
+  link: https://github.com/lowapple/
+- text: LINKEDIN
+  link: https://www.linkedin.com/in/lowapple/
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
